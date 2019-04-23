@@ -1,2 +1,4 @@
-/home/rick/IdeaProjects/spring-mvc-basics/src/main/java/webapp/LoginServlet.java
-/home/rick/IdeaProjects/spring-mvc-basics/src/main/java/webapp/LoginService.java
+/home/rick/IdeaProjects/spring-mvc-basics/src/main/java/com/webapp/jee/LoginService.java
+/home/rick/IdeaProjects/spring-mvc-basics/src/main/java/com/webapp/mvc/LoginService.java
+/home/rick/IdeaProjects/spring-mvc-basics/src/main/java/com/webapp/mvc/LoginController.java
+/home/rick/IdeaProjects/spring-mvc-basics/src/main/java/com/webapp/jee/LoginServlet.java
